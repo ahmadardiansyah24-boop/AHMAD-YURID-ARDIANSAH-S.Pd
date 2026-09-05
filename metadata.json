@@ -1,0 +1,6 @@
+{
+  "name": "GENERATOR PPM PRO PREMIUM",
+  "description": "Perencanaan Pembelajaran Mendalam Berbasis AI oleh Ahmad Yurid Ardiansah, S.Pd. Generator PPM otomatis untuk semua jenjang dan mata pelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
